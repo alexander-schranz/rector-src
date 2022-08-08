@@ -60,7 +60,7 @@
         "phpstan/phpstan-webmozart-assert": "^1.0",
         "phpunit/phpunit": "^9.5",
         "rector/phpstan-rules": "^0.4.9",
-        "rector/rector-generator": "^0.4.3",
+        "rector/rector-generator": "^0.6.0",
         "spatie/enum": "^3.9",
         "symplify/coding-standard": "^10.0",
         "symplify/easy-ci": "^10.0",
